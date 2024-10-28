@@ -3,7 +3,7 @@
 
 # Condensed Matter and Statistical Physics Research Laboratory
 
-
+We are an inter-, intra, and multidisciplinary research group exploring the universe using the fundamentals principle of theoretical and experimental physics.  Our research touches several areas including but not limited to ...
 
 {% include section.html %}
 
@@ -11,6 +11,7 @@
 
 {% capture text %}
 
+### Thin film technology
 Changing this to see how it works.
 
 {%
