@@ -33,3 +33,8 @@ nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 {% endcapture %}
 
 {% include grid.html style="square" content=content %}
+
+{% include section.html %}
+{% capture content %}
+{% include list.html data="members" component="portrait" filters="role: pi, group: alumni" %} {% include list.html data="members" component="portrait" filters="role: fellow, group: alumni" %} {% include list.html data="members" component="portrait" filters="role: postdoc, group: alumni" %} {% include list.html data="members" component="portrait" filters="role: phd, group: alumni" %}
+{% endcapture %}
