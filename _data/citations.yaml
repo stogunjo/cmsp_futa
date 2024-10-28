@@ -1,5 +1,96 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: doi:10.33003/fjs-2023-0703-1767
+  title: QUALITATIVE ANALYSIS OF HIGH GRADE NANOSILICON OBTAINED FROM COASTAL LANDFORM
+    IN ESE ODO LOCAL GOVERNMENT AREA OF ONDO STATE, NIGERIA
+  authors:
+  - Sunday Samuel Oluyamo
+  - Olalekan Femi Famutimi
+  - G. I. Olatona
+  - Adewumi Isaac Popoola
+  - Olajide Ibukun-Olu Olusola
+  publisher: FUDMA JOURNAL OF SCIENCES
+  date: '2023-06-30'
+  link: https://doi.org/g8n8z7
+  orcid: 0000-0002-9819-1719
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.46481/jnsps.2023.931
+  title: Influence of Bath pH values on the Structural and Optical Properties of Electrodeposited
+    MgO Thin Films for Optoelectronic applications
+  authors:
+  - S. C. Onuegbu
+  - S. S. Oluyamo
+  - O. I. Olusola
+  publisher: Journal of the Nigerian Society of Physical Sciences
+  date: '2023-03-18'
+  link: https://doi.org/g8n8z8
+  orcid: 0000-0002-9819-1719
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.46481/asr.2023.2.1.82
+  title: Isolation and Characterisation of High Grade Nanosilicon from Coastal Landform
+    in Ilaje Local Government Area of Ondo State, Nigeria.
+  authors:
+  - S. S Oluyamo
+  - Olalekan  Femi Famutimi
+  - M. O. Olasoji
+  publisher: African Scientific Reports
+  date: '2023-03-15'
+  link: https://doi.org/g8n8z9
+  orcid: 0000-0002-9819-1719
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.4038/cjs.v52i1.8102
+  title: Effect of pH variation on the optoelectronic properties of electrodeposited
+    Al&lt;sub&gt;2&lt;/sub&gt;GaSe&lt;sub&gt;3&lt;/sub&gt; ternary compound semiconductor
+  authors:
+  - O. I. Olusola
+  - J. O. Awodeyi
+  - N. E. Adesiji
+  - O. O. Olusola
+  - O. A. Ajayi
+  - S. B. Ibikunle
+  - S. S. Oluyamo
+  publisher: Ceylon Journal of Science
+  date: '2023-03-01'
+  link: https://doi.org/g8n82b
+  orcid: 0000-0002-9819-1719
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.rineng.2022.100622
+  title: Engineering of window layer cadmium sulphide and zinc sulphide thin films
+    for solar cell applications
+  authors:
+  - Abass A. Faremi
+  - Adedeji T. Akindadelo
+  - Mathew Adefuika Adekoya
+  - A.J. Adebayo
+  - Ayodeji Olalekan Salau
+  - Sunday Samuel Oluyamo
+  - Peter Apata Olubambi
+  publisher: Results in Engineering
+  date: '2022-12-01'
+  link: https://doi.org/g8n82c
+  orcid: 0000-0002-9819-1719
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1007/s12034-022-02718-0
+  title: Bridelia ferruginea dye-synthesized zinc oxide nanoparticles and its nitrogen
+    and sulphur doped as a photoanode in photovoltaic cell fabrication
+  authors:
+  - E Gurgur
+  - S S Oluyamo
+  - A O Adetuyi
+  - O I Omotunde
+  - A E Okoronkwo
+  - M G Famogun
+  publisher: Bulletin of Materials Science
+  date: '2022-07-26'
+  link: https://doi.org/g8n82d
+  orcid: 0000-0002-9819-1719
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1007/s00704-019-02987-6
   title: Chaotic signature of climate extremes
   authors:
@@ -10,7 +101,7 @@
   publisher: Theoretical and Applied Climatology
   date: '2019-09-05'
   link: https://doi.org/gtpcdj
-  orcid: 0000-0002-9819-1719
+  orcid: 0000-0002-6986-1939
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1007/s13143-019-00131-y
@@ -24,7 +115,952 @@
   publisher: Asia-Pacific Journal of Atmospheric Sciences
   date: '2019-07-23'
   link: https://doi.org/g6x55g
+  orcid: 0000-0002-6986-1939
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.52763/pjsir.phys.sci.60.2.2017.79.84
+  title: Dynamic Compression and Thermo-Physical Properties of Some Wood Particles
+    in South Western Nigeria
+  authors:
+  - Mathew Adefusika Adekoya
+  - Sunday Samuel Oluyamo
+  - Olawale Ramon Bello
+  publisher: 'Pakistan Journal of Scientific &amp; Industrial Research Series  A:
+    Physical Sciences'
+  date: '2017-06-29'
+  link: https://doi.org/g8n82f
   orcid: 0000-0002-9819-1719
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.9790/4861-06215458
+  title: Particle Sizes and Thermal Insulation Properties of Some Selected Wood Materials
+    for Solar Device Applications
+  authors:
+  - S. S. Oluyamo
+  - O. R. Bello
+  publisher: IOSR Journal of Applied Physics
+  date: '2014-01-01'
+  link: https://doi.org/g8n82g
+  orcid: 0000-0002-9819-1719
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.3390/atmos15060654
+  title: Complexity and Nonlinear Dependence of Ionospheric Electron Content and Doppler
+    Frequency Shifts in Propagating HF Radio Signals within Equatorial Regions
+  authors:
+  - Aderonke Akerele
+  - Babatunde Rabiu
+  - Samuel Ogunjo
+  - Daniel Okoh
+  - Anton Kascheyev
+  - Bruno Nava
+  - Olawale Bolaji
+  - Ibiyinka Fuwape
+  - Elijah Oyeyemi
+  - Busola Olugbon
+  - Jacob Akinpelu
+  - Olumide Ajani
+  publisher: Atmosphere
+  date: '2024-05-30'
+  link: https://doi.org/g8n82h
+  orcid: 0000-0002-6986-1939
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1002/rvr2.89
+  title: "Imprints of large\u2010scale climate oscillations on river flow in selected\
+    \ Canadian river catchments"
+  authors:
+  - Adeyemi Olusola
+  - Samuel Ogunjo
+  - Christiana F. Olusegun
+  publisher: River
+  date: '2024-05-01'
+  link: https://doi.org/g8n82j
+  orcid: 0000-0002-6986-1939
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1007/s40010-024-00873-z
+  title: Validation and Calibration of Tropospheric Wet Delay Models over Nigeria
+    Using GPS Data
+  authors:
+  - Samuel Ogunjo
+  - Joseph Dada
+  publisher: 'Proceedings of the National Academy of Sciences, India Section A: Physical
+    Sciences'
+  date: '2024-03-06'
+  link: https://doi.org/g8n82m
+  orcid: 0000-0002-6986-1939
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.3390/fractalfract8040197
+  title: Evolving Patterns in Irrational Numbers Using Waiting Times between Digits
+  authors:
+  - Samuel Ogunjo
+  - Holger Kantz
+  publisher: Fractal and Fractional
+  date: '2024-03-28'
+  link: https://doi.org/g8n82n
+  orcid: 0000-0002-6986-1939
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.5194/egusphere-egu24-296
+  title: Leveraging satellite and reanalysis air quality data for bottom-up approach
+    in tackling air pollution in nigeria
+  authors:
+  - Samuel Ogunjo
+  - Babatunde Rabiu
+  - Ibiyinka Fuwape
+  publisher: Copernicus GmbH
+  date: '2024-03-08'
+  link: https://doi.org/g8n82p
+  orcid: 0000-0002-6986-1939
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.cnsns.2023.107734
+  title: Active control and electronic simulation of a novel fractional order chaotic
+    jerk system
+  authors:
+  - Adedayo O. Adelakun
+  - Samuel T. Ogunjo
+  publisher: Communications in Nonlinear Science and Numerical Simulation
+  date: '2024-03-01'
+  link: https://doi.org/g8n82q
+  orcid: 0000-0002-6986-1939
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1007/978-3-031-69134-8_9
+  title: "Multifractal Characterization of\_Weibull and\_Gamma Probability Distribution\
+    \ Functions"
+  authors:
+  - Samuel Ogunjo
+  publisher: Springer Proceedings in Physics
+  date: '2024-01-01'
+  link: https://doi.org/g8n82r
+  orcid: 0000-0002-6986-1939
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.3390/app14010012
+  title: 'Predicting River Discharge in the Niger River Basin: A Deep Learning Approach'
+  authors:
+  - Samuel Ogunjo
+  - Adeyemi Olusola
+  - Christiana Olusegun
+  publisher: Applied Sciences
+  date: '2023-12-19'
+  link: https://doi.org/g8n82s
+  orcid: 0000-0002-6986-1939
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.envadv.2023.100424
+  title: Effects of two commonly used herbicides on soil microbial activity under
+    conservation tillage
+  authors:
+  - A.C. Adegaye
+  - B.T. Fabunmi
+  - S.T. Ogunjo
+  - O.R. Tokimi
+  - J.O. Nwakaeme
+  publisher: Environmental Advances
+  date: '2023-10-01'
+  link: https://doi.org/g8n82t
+  orcid: 0000-0002-6986-1939
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1088/1402-4896/acd821
+  title: Exploring the suitability of narrow-bandgap compounds for thermoelectric
+    application
+  authors:
+  - A I Popoola
+  - Y A Odusote
+  - S T Ogunjo
+  - R A Distasio
+  publisher: Physica Scripta
+  date: '2023-06-02'
+  link: https://doi.org/g8n82v
+  orcid: 0000-0002-6986-1939
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1002/joc.8049
+  title: "Evolution and copula modelling of drought duration and severity over Africa\
+    \ using <scp>CORDEX\u2010CORE</scp> regional climate models"
+  authors:
+  - Christiana Funmilola Olusegun
+  - Samuel Ogunjo
+  - Adeyemi Olusola
+  publisher: International Journal of Climatology
+  date: '2023-03-07'
+  link: https://doi.org/g8n82w
+  orcid: 0000-0002-6986-1939
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1007/s00703-023-00971-4
+  title: Multifractal detrended fluctuation analysis of particulate matter and atmospheric
+    variables at different time scales
+  authors:
+  - Ibiyinka Fuwape
+  - Samuel Ogunjo
+  - Joshua Akinsusi
+  - Babatunde Rabiu
+  - Gregory Jenkins
+  publisher: Meteorology and Atmospheric Physics
+  date: '2023-05-08'
+  link: https://doi.org/g8n82x
+  orcid: 0000-0002-6986-1939
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.5194/egusphere-egu23-11895
+  title: 'Densification of air quality monitoring in Nigeria: Progress and challenges'
+  authors:
+  - Samuel Ogunjo
+  - Babatunde Rabiu
+  - Ibiyinka Fuwape
+  - Gregory Jenkins
+  - Aderonke Obafaye
+  publisher: Copernicus GmbH
+  date: '2023-05-15'
+  link: https://doi.org/g8n82z
+  orcid: 0000-0002-6986-1939
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.5194/egusphere-egu23-1104
+  title: Imprints of large-scale oscillations on river flow in selected Canadian river
+    catchments
+  authors:
+  - Adeyemi Olusola
+  - Samuel Ogunjo
+  - Christiana Olusegun
+  publisher: Copernicus GmbH
+  date: '2023-05-15'
+  link: https://doi.org/g8n822
+  orcid: 0000-0002-6986-1939
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1029/2022GH000722
+  title: "The Impact of the First and Second Waves of COVID\u201019 Pandemic in Nigeria"
+  authors:
+  - Benjamin Wisdom Joshua
+  - Ibiyinka Fuwape
+  - Babatunde Rabiu
+  - Evanilton E. S. Pires
+  - Rabia Salihu Sa'id
+  - Toluwalope T. Ogunro
+  - Oluwayomi Funmilola Awe
+  - Olugbenga Olusegun Osunmakinwa
+  - Samuel Ogunjo
+  publisher: GeoHealth
+  date: '2023-03-01'
+  link: https://doi.org/g8n823
+  orcid: 0000-0002-6986-1939
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1007/s43546-022-00414-z
+  title: "The impact of the 2007\u20132008 global financial crisis on the multifractality\
+    \ of the Nigerian Stock Exchange"
+  authors:
+  - Samuel T. Ogunjo
+  publisher: SN Business &amp; Economics
+  date: '2023-01-08'
+  link: https://doi.org/g8n824
+  orcid: 0000-0002-6986-1939
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1029/2022RS007557
+  title: Comparative Study of Worst Month Rain Rate and Attenuation Statistics for
+    Satellite Links in Nigeria
+  authors:
+  - J. Ibitokun
+  - J. S. Ojo
+  - S. T. Ogunjo
+  publisher: Radio Science
+  date: '2023-01-01'
+  link: https://doi.org/g8n825
+  orcid: 0000-0002-6986-1939
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1029/2021GH000520
+  title: "Association Between Weather Parameters and SARS\u2010CoV\u20102 Confirmed\
+    \ Cases in Two South African Cities"
+  authors:
+  - Samuel Ogunjo
+  - Adeyemi Olusola
+  - Israel Orimoloye
+  publisher: GeoHealth
+  date: '2022-11-01'
+  link: https://doi.org/g8n826
+  orcid: 0000-0002-6986-1939
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1007/s00500-022-06987-z
+  title: Modified hybrid combination synchronization of chaotic fractional order systems
+  authors:
+  - Kayode S. Ojo
+  - Samuel T. Ogunjo
+  - Ibiyinka A. Fuwape
+  publisher: Soft Computing
+  date: '2022-03-28'
+  link: https://doi.org/g8n827
+  orcid: 0000-0002-6986-1939
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.3390/s22155779
+  title: Advanced Marine Predator Algorithm for Circular Antenna Array Pattern Synthesis
+  authors:
+  - Eunice Oluwabunmi Owoola
+  - Kewen Xia
+  - Samuel Ogunjo
+  - Sandrine Mukase
+  - Aadel Mohamed
+  publisher: Sensors
+  date: '2022-08-02'
+  link: https://doi.org/g8n828
+  orcid: 0000-0002-6986-1939
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.sciaf.2022.e01246
+  title: Machine learning models for prediction of rainfall over Nigeria
+  authors:
+  - Olusola Samuel Ojo
+  - Samuel Toluwalope Ogunjo
+  publisher: Scientific African
+  date: '2022-07-01'
+  link: https://doi.org/g8n829
+  orcid: 0000-0002-6986-1939
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.5194/icg2022-43
+  title: Geomorphic covariance structures of selected channel morphological variables
+    across the alluvial-bedrock continuum in the Upper Ogun River Basin, Southwestern
+    Nigeria
+  authors:
+  - Adeyemi Olusola
+  - Samuel Ogunjo
+  - Olutoyin Fashae
+  - Olumide Onafeso
+  - Samuel Adelabu
+  publisher: Copernicus GmbH
+  date: '2022-06-20'
+  link: https://doi.org/g8n83b
+  orcid: 0000-0002-6986-1939
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1007/s40010-018-0570-y
+  title: The Development of an Enhanced Biomass Gasifier Stove
+  authors:
+  - Kayode Adedayo
+  - Eunice Owoola
+  - Samuel Ogunjo
+  publisher: 'Proceedings of the National Academy of Sciences, India Section A: Physical
+    Sciences'
+  date: '2018-12-19'
+  link: https://doi.org/g8n83c
+  orcid: 0000-0002-6986-1939
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1029/2021GH000509
+  title: "Predicting COVID\u201019 Cases From Atmospheric Parameters Using Machine\
+    \ Learning Approach"
+  authors:
+  - S. T. Ogunjo
+  - I. A. Fuwape
+  - A. B. Rabiu
+  publisher: GeoHealth
+  date: '2022-04-01'
+  link: https://doi.org/g8n83d
+  orcid: 0000-0002-6986-1939
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1029/2021GH000521
+  title: "The Role of Meteorological Variables and Aerosols in the Transmission of\
+    \ COVID\u201019 During Harmattan Season"
+  authors:
+  - S. Ogunjo
+  - O. Olaniyan
+  - C.F. Olusegun
+  - F. Kayode
+  - D. Okoh
+  - G. Jenkins
+  publisher: GeoHealth
+  date: '2022-02-01'
+  link: https://doi.org/g8n83f
+  orcid: 0000-0002-6986-1939
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1007/s40808-022-01423-5
+  title: Evaluation of dry and wet spell events over West Africa using CORDEX-CORE
+    regional climate models
+  authors:
+  - Christiana Funmilola Olusegun
+  - Oluwayomi Awe
+  - Itunu Ijila
+  - Opeyemi Ajanaku
+  - Samuel Ogunjo
+  publisher: Modeling Earth Systems and Environment
+  date: '2022-05-14'
+  link: https://doi.org/g8n83g
+  orcid: 0000-0002-6986-1939
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1088/1755-1315/993/1/012024
+  title: Forecasting tropospheric wet delay using LSTM neural network
+  authors:
+  - S.T. Ogunjo
+  - J.B. Dada
+  - O.J. Ajayi
+  publisher: 'IOP Conference Series: Earth and Environmental Science'
+  date: '2022-03-01'
+  link: https://doi.org/gsprp4
+  orcid: 0000-0002-6986-1939
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1007/s00703-022-00876-8
+  title: Signature of teleconnection patterns in river discharge within the Niger
+    Basin
+  authors:
+  - Samuel Ogunjo
+  - Adeyemi Olusola
+  publisher: Meteorology and Atmospheric Physics
+  date: '2022-03-12'
+  link: https://doi.org/gpntmj
+  orcid: 0000-0002-6986-1939
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1007/s12043-021-02245-3
+  title: 'Impact of global financial crisis on the complexity of emerging markets:
+    Case study of the Nigerian Stock Exchange'
+  authors:
+  - S T Ogunjo
+  - I A Fuwape
+  - M O Temiye
+  publisher: Pramana
+  date: '2021-11-30'
+  link: https://doi.org/g8n83h
+  orcid: 0000-0002-6986-1939
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1029/2020JA027873
+  title: "Evolution of Dynamical Complexities in Geospace as Captured by Dst Over\
+    \ Four Solar Cycles 1964\u20132008."
+  authors:
+  - S. T. Ogunjo
+  - A. B. Rabiu
+  - I. A. Fuwape
+  - A. A. Obafaye
+  publisher: 'Journal of Geophysical Research: Space Physics'
+  date: '2021-04-01'
+  link: https://doi.org/gm6r5r
+  orcid: 0000-0002-6986-1939
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1063/5.0029658
+  title: Multifractal analysis of air and soil temperatures
+  authors:
+  - Samuel Toluwalope Ogunjo
+  - Ibiyinka Fuwape
+  - A. Babatunde Rabiu
+  - Sunday Samuel Oluyamo
+  publisher: 'Chaos: An Interdisciplinary Journal of Nonlinear Science'
+  date: '2021-03-01'
+  link: https://doi.org/g8n83j
+  orcid: 0000-0002-6986-1939
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1142/S0219477521500073
+  title: Multifractal Properties of Meteorological Drought at Different Time Scales
+    in a Tropical Location
+  authors:
+  - Samuel Toluwalope Ogunjo
+  publisher: Fluctuation and Noise Letters
+  date: '2020-09-15'
+  link: https://doi.org/g8n83k
+  orcid: 0000-0002-6986-1939
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1007/s11869-020-00921-8
+  title: Impact of COVID -19 pandemic lockdown on distribution of inorganic pollutants
+    in selected cities of Nigeria
+  authors:
+  - I. A. Fuwape
+  - C. T. Okpalaonwuka
+  - S. T. Ogunjo
+  publisher: Air Quality, Atmosphere &amp; Health
+  date: '2020-09-05'
+  link: https://doi.org/gncmf8
+  orcid: 0000-0002-6986-1939
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1088/1755-1315/655/1/012003
+  title: Trends in extreme temperature indices over Lagos, Nigeria
+  authors:
+  - S. T. Ogunjo
+  - J. O. Akinsusi
+  - I. A. Fuwape
+  publisher: 'IOP Conference Series: Earth and Environmental Science'
+  date: '2021-02-01'
+  link: https://doi.org/g8n83m
+  orcid: 0000-0002-6986-1939
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1088/1757-899x/1032/1/012040
+  title: Solar energy potentials in different climatic zones of Nigeria
+  authors:
+  - S T Ogunjo
+  - A A Obafaye
+  - A B Rabiu
+  publisher: 'IOP Conference Series: Materials Science and Engineering'
+  date: '2021-01-01'
+  link: https://doi.org/g8n83n
+  orcid: 0000-0002-6986-1939
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1007/978-981-16-2450-6_18
+  title: Dynamics of Inter-community Spread of Covid-19
+  authors:
+  - Emmanuel J. Dansu
+  - Samuel T. Ogunjo
+  publisher: Infosys Science Foundation Series
+  date: '2021-01-01'
+  link: https://doi.org/g8n83p
+  orcid: 0000-0002-6986-1939
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1088/1755-1315/655/1/012001
+  title: Second-order Markov chain models of rainfall in Ibadan, Southwest Nigeria
+  authors:
+  - S. T. Ogunjo
+  - I. A. Fuwape
+  - S. S. Oluyamo
+  - A. B. Rabiu
+  publisher: 'IOP Conference Series: Earth and Environmental Science'
+  date: '2021-02-01'
+  link: https://doi.org/g8n83q
+  orcid: 0000-0002-6986-1939
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1088/1742-6596/2034/1/012025
+  title: Spatial variations in the trend of heatwave over West Africa
+  authors:
+  - S T Ogunjo
+  - N E Adesiji
+  - E O Owoola
+  - I A Fuwape
+  publisher: 'Journal of Physics: Conference Series'
+  date: '2021-10-01'
+  link: https://doi.org/g8n83r
+  orcid: 0000-0002-6986-1939
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1007/s12517-021-08040-z
+  title: Tropospheric delay in microwave propagation in Nigeria
+  authors:
+  - Samuel Ogunjo
+  - Joseph Dada
+  - Sunday Oluyamo
+  - Ibiyinka Fuwape
+  publisher: Arabian Journal of Geosciences
+  date: '2021-07-28'
+  link: https://doi.org/g8n83s
+  orcid: 0000-0002-6986-1939
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1088/1742-6596/2034/1/011001
+  title: 'URSI-NG CONFERENCE 2021 ON THE FUTURE OF RADIO COMMUNICATION: PROSPECTS
+    AND CHALLENGES'
+  authors: []
+  publisher: 'Journal of Physics: Conference Series'
+  date: '2021-10-01'
+  link: https://doi.org/g8n83t
+  orcid: 0000-0002-6986-1939
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.23919/ursigass49373.2020.9232230
+  title: Statistics of vertical refractivity gradient over Akure, Nigeria
+  authors:
+  - Samuel T. Ogunjo
+  - Nkirikua E. Adesiji
+  publisher: 2020 XXXIIIrd General Assembly and Scientific Symposium of the International
+    Union of Radio Science
+  date: '2020-08-01'
+  link: https://doi.org/g8h7t3
+  orcid: 0000-0002-6986-1939
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.asr.2020.03.023
+  title: Nonlinear characterization and interaction in teleconnection patterns
+  authors:
+  - Samuel T. Ogunjo
+  - Ibiyinka A. Fuwape
+  publisher: Advances in Space Research
+  date: '2020-06-01'
+  link: https://doi.org/g8n83v
+  orcid: 0000-0002-6986-1939
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.29195/iascs.03.01.0019
+  title: Complexity of global sea surface temperature
+  authors:
+  - SAMUEL T. OGUNJO
+  - IBIYINKA A. FUWAPE
+  publisher: Indian Academy of Sciences Conference Series
+  date: '2020-12-28'
+  link: https://doi.org/g8n83w
+  orcid: 0000-0002-6986-1939
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.29195/iascs.03.01.0001
+  title: Multifractality in global sea surface temperature
+  authors:
+  - SAMUEL T. OGUNJO
+  publisher: Indian Academy of Sciences Conference Series
+  date: '2020-12-28'
+  link: https://doi.org/g8n83x
+  orcid: 0000-0002-6986-1939
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1615/telecomradeng.v79.i11.100
+  title: SPATIO-TEMPORAL VARIATION OF NONLINEARITY IN TROPOSPHERIC ZENITH WET DELAY
+    OVER WEST AFRICA
+  authors:
+  - S. T. Ogunjo
+  - J. B. Dada
+  - I. A. Fuwape
+  publisher: Telecommunications and Radio Engineering
+  date: '2020-01-01'
+  link: https://doi.org/g8n83z
+  orcid: 0000-0002-6986-1939
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1007/s42452-019-1599-5
+  title: Chaos suppression in fractional order systems using state-dependent noise
+  authors:
+  - A. O. Adelakun
+  - S. T. Ogunjo
+  - I. A. Fuwape
+  publisher: SN Applied Sciences
+  date: '2019-11-13'
+  link: https://doi.org/grv7z9
+  orcid: 0000-0002-6986-1939
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1007/s11600-019-00279-1
+  title: Quantification of historical drought conditions over different climatic zones
+    of Nigeria
+  authors:
+  - Samuel Ogunjo
+  - Oluwatobi Ife-Adediran
+  - Eunice Owoola
+  - Ibiyinka Fuwape
+  publisher: Acta Geophysica
+  date: '2019-03-16'
+  link: https://doi.org/g79j2q
+  orcid: 0000-0002-6986-1939
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1007/s40435-018-0429-8
+  title: Bifurcation and mixed tracking of the discrete fractional LPA model
+  authors:
+  - Ibiyinka Fuwape
+  - Samuel Ogunjo
+  publisher: International Journal of Dynamics and Control
+  date: '2018-04-04'
+  link: https://doi.org/g8n832
+  orcid: 0000-0002-6986-1939
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1504/ijenvh.2019.108659
+  title: Distribution analysis and autoregressive modelling of ultraviolet radiation
+    over Akure, Nigeria
+  authors:
+  - Ayodeji Gabriel Ashidi
+  - Samuel Toluwalope Ogunjo
+  - Toluwalope Mary Akinmoladun
+  publisher: International Journal of Environment and Health
+  date: '2019-01-01'
+  link: https://doi.org/g8n833
+  orcid: 0000-0002-6986-1939
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1063/1.5110103
+  title: "Nigerian women in physics: Advances and challenges (2014\u20132017)"
+  authors:
+  - Ibiyinka A. Fuwape
+  - Samuel T. Ogunjo
+  - Eunice O. Owoola
+  publisher: AIP Conference Proceedings
+  date: '2019-01-01'
+  link: https://doi.org/g8n834
+  orcid: 0000-0002-6986-1939
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1063/1.5110131
+  title: Temporal variation of soil volumetric water content
+  authors:
+  - I. A. Fuwape
+  - S. T. Ogunjo
+  - E. O. Owoola
+  publisher: AIP Conference Proceedings
+  date: '2019-01-01'
+  link: https://doi.org/g8n835
+  orcid: 0000-0002-6986-1939
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.31219/osf.io/38wyh
+  title: The Possibility of Uniform Pseudo-random Number Generation by a Group of
+    Humans
+  authors:
+  - Samuel Toluwalope Ogunjo
+  - Emmanuel Jesuyon Dansu
+  - Ibiyinka Agboola Fuwape
+  - Oluwagbenga Olukanye-David
+  publisher: Center for Open Science
+  date: '2018-10-04'
+  link: https://doi.org/g8n836
+  orcid: 0000-0002-6986-1939
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.21071/az.v0i0.3890
+  title: "Les lapins nourris avec de l\u2019amidon de manioc ferment\xE9e je r\xE9\
+    sidus: Effet sur le rendement et l\u2019\xE9tat de sant\xE9"
+  authors:
+  - O.D. Oloruntola
+  - J.O. Agbede
+  - G.E. Onibi
+  - F.A. Igbasan
+  - S.O. Ayodele
+  - M.A. Arogunjo
+  - S.T. Ogunjo
+  publisher: Archivos de Zootecnia
+  date: '2018-10-15'
+  link: https://doi.org/g8n837
+  orcid: 0000-0002-6986-1939
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1007/978-3-030-01440-7_54
+  title: Assessing the Impact of Vegetation Cover on Total Column Ozone Over West
+    Africa
+  authors:
+  - Samuel Ogunjo
+  - Ibiyinka Fuwape
+  - Babatunde Rabiu
+  - Sunday Oluyamo
+  - Eunice Owoola
+  publisher: Advances in Science, Technology &amp; Innovation
+  date: '2018-12-30'
+  link: https://doi.org/g8n838
+  orcid: 0000-0002-6986-1939
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/b978-0-12-813592-1.00015-5
+  title: Multiswitching Synchronization Between Chaotic Fractional Order Systems of
+    Different Dimensions
+  authors:
+  - Samuel T. Ogunjo
+  - Kayode S. Ojo
+  - Ibiyinka A. Fuwape
+  publisher: Mathematical Techniques of Fractional Order Systems
+  date: '2018-01-01'
+  link: https://doi.org/g8n839
+  orcid: 0000-0002-6986-1939
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/B978-0-12-813592-1.00015-5
+  title: Multiswitching Synchronization Between Chaotic Fractional Order Systems of
+    Different Dimensions
+  authors:
+  - Samuel T. Ogunjo
+  - Kayode S. Ojo
+  - Ibiyinka A. Fuwape
+  publisher: Mathematical Techniques of Fractional Order Systems
+  date: '2018-01-01'
+  link: https://doi.org/g8n839
+  orcid: 0000-0002-6986-1939
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1515/msp-2017-0080
+  title: Thermodynamic properties of Al in ternary lead-free solder Al-Sn-Zn alloys
+  authors:
+  - Yisau A. Odusote
+  - Adewumi I. Popoola
+  - Kayode D. Adedayo
+  - Samuel T. Ogunjo
+  publisher: Materials Science-Poland
+  date: '2017-10-20'
+  link: https://doi.org/g8n84c
+  orcid: 0000-0002-6986-1939
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1007/978-3-319-50249-6_16
+  title: Comparison of Three Different Synchronization Schemes for Fractional Chaotic
+    Systems
+  authors:
+  - S. T. Ogunjo
+  - K. S. Ojo
+  - I. A. Fuwape
+  publisher: Studies in Computational Intelligence
+  date: '2017-01-01'
+  link: https://doi.org/g8n84d
+  orcid: 0000-0002-6986-1939
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1007/978-3-319-51724-7_19
+  title: Dynamics of Delayed Memristive Systems in Combination Chaotic Circuits
+  authors:
+  - O. A. Adelakun
+  - S. T. Ogunjo
+  - I. A. Fuwape
+  publisher: Studies in Computational Intelligence
+  date: '2017-01-01'
+  link: https://doi.org/g8n84f
+  orcid: 0000-0002-6986-1939
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1007/s00704-015-1642-4
+  title: Investigating chaotic features in solar radiation over a tropical station
+    using recurrence quantification analysis
+  authors:
+  - Samuel T. Ogunjo
+  - Adekunle T. Adediji
+  - Joseph B. Dada
+  publisher: Theoretical and Applied Climatology
+  date: '2015-09-22'
+  link: https://doi.org/g8n84g
+  orcid: 0000-0002-6986-1939
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.jastp.2016.09.009
+  title: Phase synchronization between tropospheric radio refractivity and rainfall
+    amount in a tropical region
+  authors:
+  - Ibiyinka A. Fuwape
+  - Samuel T. Ogunjo
+  - Joseph B. Dada
+  - Gabriel A. Ashidi
+  - Israel Emmanuel
+  publisher: Journal of Atmospheric and Solar-Terrestrial Physics
+  date: '2016-11-01'
+  link: https://doi.org/g8n84h
+  orcid: 0000-0002-6986-1939
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1007/s00704-016-1867-x
+  title: Spatial variation of deterministic chaos in mean daily temperature and rainfall
+    over Nigeria
+  authors:
+  - I. A. Fuwape
+  - S. T. Ogunjo
+  - S. S. Oluyamo
+  - A. B. Rabiu
+  publisher: Theoretical and Applied Climatology
+  date: '2016-07-19'
+  link: https://doi.org/gntvns
+  orcid: 0000-0002-6986-1939
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.3389/conf.fnhum.2016.220.00010
+  title: EEG CHARACTERIZATION USING NONLINEAR SIGNATURES
+  authors:
+  - Fuwape Ibiyinka
+  - Ogunjo Samuel
+  publisher: Frontiers in Human Neuroscience
+  date: '2016-01-01'
+  link: https://doi.org/g8n84j
+  orcid: 0000-0002-6986-1939
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.jastp.2016.10.010
+  title: Quantification of scaling exponents and dynamical complexity of microwave
+    refractivity in a tropical climate
+  authors:
+  - Ibiyinka A. Fuwape
+  - Samuel T. Ogunjo
+  publisher: Journal of Atmospheric and Solar-Terrestrial Physics
+  date: '2016-12-01'
+  link: https://doi.org/g8n84k
+  orcid: 0000-0002-6986-1939
+  plugin: orcid.py
+  file: orcid.yaml
+- id: wosuid:WOS:000215229700013
+  title: Web of Science
+  authors: []
+  publisher: ''
+  date: ''
+  link: https://www.webofscience.com/wos/woscc/full-record/WOS:WOS:000215229700013
+  orcid: 0000-0002-6986-1939
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1063/1.4937681
+  title: "Women in physics in Nigeria: Status, actions, and progress (2011\u20132014)"
+  authors:
+  - Ibiyinka A. Fuwape
+  - Babatunde Rabiu
+  - Samuel Ogunjo
+  publisher: AIP Conference Proceedings
+  date: '2015-01-01'
+  link: https://doi.org/gctkk8
+  orcid: 0000-0002-6986-1939
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1007/s12043-014-0835-1
+  title: Increased-order generalized synchronization of chaotic and hyperchaotic systems
+  authors:
+  - K S OJO
+  - S T OGUNJO
+  - A N NJAH
+  - I A FUWAPE
+  publisher: Pramana
+  date: '2014-09-13'
+  link: https://doi.org/g8n84n
+  orcid: 0000-0002-6986-1939
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/ursigass.2014.6929637
+  title: Predicting radio refractivity using a stochastic model
+  authors:
+  - Samuel T. Ogunjo
+  - Moses O. Ajewole
+  - A. T. Adediji
+  - J. S. Ojo
+  publisher: 2014 XXXIth URSI General Assembly and Scientific Symposium (URSI GASS)
+  date: '2014-08-01'
+  link: https://doi.org/g8n84p
+  orcid: 0000-0002-6986-1939
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.2478/acsc-2014-0007
+  title: Reduced order hybrid function projective combination synchronization of three
+    Josephson junctions
+  authors:
+  - Kayode. S. Ojo
+  - Abdulahi N. Njah
+  - Samuel T. Ogunjo
+  - Olasunkanmi I. Olusola
+  publisher: Archives of Control Sciences
+  date: '2014-03-01'
+  link: https://doi.org/g8n84q
+  orcid: 0000-0002-6986-1939
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.2528/pierm14041606
+  title: VARIATIONS IN NON-LINEARITY IN VERTICAL DISTRIBUTION OF MICROWAVE RADIO REFRACTIVITY.
+  authors:
+  - Adekunle Titus Adediji
+  - Samuel Toluwalope Ogunjo
+  publisher: Progress In Electromagnetics Research M
+  date: '2014-01-01'
+  link: https://doi.org/g8n84r
+  orcid: 0000-0002-6986-1939
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1007/s12043-013-0526-3
+  title: "Comparison of backstepping and modified active control in projective synchronization\
+    \ of chaos in an extended Bonh\xF6ffer\u2013van der Pol oscillator"
+  authors:
+  - K S OJO
+  - A N NJAH
+  - S T OGUNJO
+  publisher: Pramana
+  date: '2013-04-12'
+  link: https://doi.org/g8n84s
+  orcid: 0000-0002-6986-1939
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1371/journal.pcbi.1007128
