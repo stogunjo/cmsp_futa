@@ -11,17 +11,8 @@ We are an inter-, intra, and multidisciplinary research group exploring the univ
 
 {% capture text %}
 
-### Thin film technology
 Changing this to see how it works.
 
-{%
-  include button.html
-  link="research"
-  text="See our publications"
-  icon="fa-solid fa-arrow-right"
-  flip=true
-  style="bare"
-%}
 
 {% endcapture %}
 
@@ -29,7 +20,7 @@ Changing this to see how it works.
   include feature.html
   image="images/photo.jpg"
   link="research"
-  title="Our Research"
+  title="Thin film technology"
   text=text
 %}
 
