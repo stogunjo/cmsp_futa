@@ -1,5 +1,5 @@
 ---
-name: Sunday S. Fuwape
+name: Sunday S. Oluyamo
 image: images/oluyamo.jpg
 role: Co-PI
 affiliation: Federal University of Technology Akure
