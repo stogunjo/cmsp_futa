@@ -1,5 +1,5 @@
 ---
-title: Research
+title: Publications
 nav:
   order: 1
   tooltip: Published works
@@ -7,16 +7,11 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-microscope" %}Research
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+Our research at the Condensed Matter and Statistical Physics group spans both theoretical and experimental analysis in thin film technology, nanoscience and nanotechnology, statistical physics, nonlinear dynamics, and other interdisciplinary fields. 
 
 {% include section.html %}
 
-## Highlighted
 
-{% include citation.html lookup="Open collaborative writing with Manubot" style="rich" %}
-
-{% include section.html %}
 
 ## All
 
