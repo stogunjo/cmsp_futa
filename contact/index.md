@@ -27,7 +27,7 @@ nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
   include button.html
   type="address"
   tooltip="Our location on Google Maps for easy navigation"
-  link="https://www.google.com/maps"
+  link="[https://www.google.com/maps](https://www.google.com/maps/place/Physics+Laboratory+II/@7.2959981,5.1396127,16z/data=!4m10!1m2!2m1!1sfuta+department+of+physics!3m6!1s0x10478ec94dd9b0a7:0x775cf57e0e0b3829!8m2!3d7.2958652!4d5.1486244!15sChpmdXRhIGRlcGFydG1lbnQgb2YgcGh5c2ljcyIDiAEBkgEKbGFib3JhdG9yeeABAA!16s%2Fg%2F12hvh7qy2?entry=ttu&g_ep=EgoyMDI0MTAyMy4wIKXMDSoASAFQAw%3D%3D)"
 %}
 
 {% include section.html %}
