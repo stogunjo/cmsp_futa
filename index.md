@@ -18,7 +18,7 @@ Changing this to see how it works.
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/thin_film.png"
   link="research"
   title="Thin film technology"
   text=text
@@ -33,7 +33,7 @@ Still changing things
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/chaos.jpg"
   link="projects"
   title="Chaos and complex systems"
   flip=true
