@@ -1,5 +1,5 @@
 
-# stogunjoDESCRIPTION=An engaging 1-3 sentence description of your lab.'s Website
+# Condensed Matter and Statistical Physics Research Laboratory
 
 Visit **[stogunjo.github.io/cmsp_futa](https://stogunjo.github.io/cmsp_futa)** 🚀
 
