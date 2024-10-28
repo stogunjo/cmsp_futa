@@ -1,10 +1,13 @@
 ---
-name: John Doe
-image: images/photo.jpg
-role: phd
-group: alum
+name: Sunday S. Fuwape
+image: images/oluyamo.jpg
+role: Co-PI
+affiliation: Federal University of Technology Akure
+aliases:
+  - S. S. Oluyamo
+  - S Oluyamo
 links:
-  github: john-doe
+  orcid: 0000-0002-9819-1719
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+I will edit this later.
