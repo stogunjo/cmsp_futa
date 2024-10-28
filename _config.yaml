@@ -1,5 +1,5 @@
 # site properties and page defaults
-title: stogunjoDESCRIPTION=An engaging 1-3 sentence description of your lab.
+title: Condensed Matter and Statistical Physics Research Laboratory
 subtitle: 
 description: 
 header: images/background.jpg
@@ -8,11 +8,11 @@ proofer: false
 
 # site social media and other links
 links:
-  email: contact@stogunjoDESCRIPTION=An engaging 1-3 sentence description of your lab..com
-  orcid: 0000-0001-8713-9213
-  google-scholar: ETJoidYAAAAJ
-  github: stogunjoDESCRIPTION=An engaging 1-3 sentence description of your lab.
-  twitter: stogunjoDESCRIPTION=An engaging 1-3 sentence description of your lab.
+  email: ogunjosam@yahoo.com
+  orcid: 0000-0002-9819-1719
+  google-scholar: 4rFveg8AAAAJ
+  github: https://github.com/ogunjosam
+  twitter: @ogunjosam
   youtube: stogunjoDESCRIPTION=An engaging 1-3 sentence description of your lab.
 
 ### jekyll settings
