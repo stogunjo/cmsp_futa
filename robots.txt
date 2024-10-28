@@ -1,1 +1,1 @@
-Sitemap: https://stogunjo.github.io/cmsp.github.io/sitemap.xml
+Sitemap: https://stogunjo.github.io/cmsp/sitemap.xml
