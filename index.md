@@ -26,7 +26,7 @@ Thin films are microscopically thin layers of material—ranging from a few nano
 
 {% capture text %}
 
-Chaos is ubiquitous. Our research in nonlinear dynamics and chaos includes (i) theoretical and experimental synchronization and control of ODE, FDE, PDE dynamical systems with applications to secure communications, (ii) time series analysis of dynamical complexity in natural time series such as geospace, atmospheric sciences, economics, and biophysical signals. 
+Chaos is ubiquitous. Exploring the hidden patterns in chaos, our cutting-edge research investigates complex dynamical systems that shape our world. At the intersection of mathematics and real-world applications, we specialize in nonlinear dynamics, chaos theory, and advanced time series analysis. Our research focuses on two key areas: first, the synchronization and control of dynamical systems (ODE, FDE, PDE), revolutionizing secure communications through chaos-based encryption. Second, we decode the complexity hidden in natural time series data, from the mysteries of geospace and atmospheric patterns to the rhythms of financial markets and biological systems. By developing innovative mathematical frameworks and computational methods, we're uncovering the fundamental laws governing chaotic systems. Our research impacts diverse fields including climate science, cryptography, financial forecasting, and biomedical signal analysis. 
 
 
 {% endcapture %}
