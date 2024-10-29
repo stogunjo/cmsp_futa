@@ -1,12 +1,10 @@
-- title: Cool Dataset
-  subtitle: a subtitle
-  group: featured
+- title: Climate change and crop growth
+  subtitle: 
   image: images/photo.jpg
   link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
+  description: In this project with [Prof. G. Oboh](https://scholar.google.com/citations?user=IVmrPkUAAAAJ&hl=en&oi=ao), we looked at the impact of elevated CO2 on physical, chemical, and nutritional properties of common vegetables
   tags:
-    - resource
+    - climate change
 
 - title: Cool Package
   subtitle: a subtitle
