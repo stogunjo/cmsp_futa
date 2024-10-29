@@ -1,20 +1,22 @@
 - title: Climate change and crop growth
   subtitle: 
+  group: featured
   image: images/photo.jpg
-  link: https://github.com/
+  link: 
   description: In this project with [Prof. G. Oboh](https://scholar.google.com/citations?user=IVmrPkUAAAAJ&hl=en&oi=ao), we looked at the impact of elevated CO2 on physical, chemical, and nutritional properties of common vegetables
   tags:
     - climate change
 
-- title: Cool Package
-  subtitle: a subtitle
+- title: Environment and COVID-19
+  subtitle: 
   group: featured
   image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
+  link: 
+  description: This is a multidisciplinary and international collaboration with teams from [Penn State](https://aeseda.psu.edu/), [NASRDA](https://central.nasrda.gov.ng/), and [Fawole Olusegun](https://researchportal.port.ac.uk/en/persons/olusegun-fawole) to look at the impact of atmospheric parameters on disease transmission in West Africa
+  repo: 
   tags:
-    - resource
+    - COVID19
+    - atmospheric science
 
 - title: Cool Tutorial
   subtitle: a subtitle
