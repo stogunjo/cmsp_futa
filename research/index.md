@@ -5,9 +5,9 @@ nav:
   tooltip: Published works
 ---
 
-# {% include icon.html icon="fa-solid fa-microscope" %}Research
+# {% include icon.html icon="fa-solid fa-microscope" %}Research  
 
-Our research at the Condensed Matter and Statistical Physics group spans both theoretical and experimental analysis in thin film technology, nanoscience and nanotechnology, statistical physics, nonlinear dynamics, and other interdisciplinary fields. 
+Our research at the Condensed Matter and Statistical Physics (CMSP) group spans both theoretical and experimental analysis in thin film technology, nanoscience and nanotechnology, statistical physics, nonlinear dynamics, and other interdisciplinary fields. 
 
 {% include section.html %}
 
