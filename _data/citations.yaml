@@ -155,6 +155,19 @@
   orcid: 0000-0002-6986-1939
   plugin: orcid.py
   file: orcid.yaml
+- id: doi:10.5194/egusphere-egu24-296
+  title: Leveraging satellite and reanalysis air quality data for bottom-up approach
+    in tackling air pollution in nigeria
+  authors:
+  - Samuel Ogunjo
+  - Babatunde Rabiu
+  - Ibiyinka Fuwape
+  publisher: Copernicus GmbH
+  date: '2024-03-08'
+  link: https://doi.org/g8n82p
+  orcid: 0000-0002-6986-1939
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.3390/atmos15060654
   title: Complexity and Nonlinear Dependence of Ionospheric Electron Content and Doppler
     Frequency Shifts in Propagating HF Radio Signals within Equatorial Regions
@@ -211,19 +224,6 @@
   publisher: Fractal and Fractional
   date: '2024-03-28'
   link: https://doi.org/g8n82n
-  orcid: 0000-0002-6986-1939
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.5194/egusphere-egu24-296
-  title: Leveraging satellite and reanalysis air quality data for bottom-up approach
-    in tackling air pollution in nigeria
-  authors:
-  - Samuel Ogunjo
-  - Babatunde Rabiu
-  - Ibiyinka Fuwape
-  publisher: Copernicus GmbH
-  date: '2024-03-08'
-  link: https://doi.org/g8n82p
   orcid: 0000-0002-6986-1939
   plugin: orcid.py
   file: orcid.yaml
